@@ -29,4 +29,7 @@ public class pool {
             System.out.println(string.length());
         }
     }
+    public void add(){
+        int i=1;
+    }
 }
